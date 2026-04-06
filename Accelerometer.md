@@ -13,4 +13,4 @@ Below shown are some visualizations for better understanding.
 
 ![Image](https://github.com/user-attachments/assets/c3c832b4-4774-4bac-aaa9-a7c3e56e218d)
 
-The above readings are from a real accelerometer , the first 3 readings show that mojorly its gravity that is acting , rest ax and ay may be becoz of the bias or noise/environmental error etc.
+The above readings are from a real accelerometer , the first 3 readings show that mojorly its gravity that is acting , rest ax and ay may be becoz of the bias or noise/environmental error etc. The readings are along the direction of axes, 
